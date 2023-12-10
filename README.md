@@ -5,7 +5,7 @@ ZJU图书馆预约脚本
 ## Windows
 
 ```powershell
-pip install bs4 PyExecJS
+pip install bs4 PyExecJS requests
 python3 main.py
 ```
 
@@ -13,7 +13,7 @@ python3 main.py
 
 ```bash
 sudo apt-get install nodejs
-pip install bs4 PyExecJS
+pip install bs4 PyExecJS requests
 python3 main.py
 ```
 
