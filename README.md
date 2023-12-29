@@ -5,6 +5,8 @@ ZJU图书馆预约脚本
 ## Windows
 
 ```powershell
+git clone https://github.com/Night1918/zju_library_booking_tool.git
+cd zju_library_booking_tool
 pip install bs4 PyExecJS requests
 python3 main.py
 ```
@@ -12,6 +14,8 @@ python3 main.py
 ## Linux
 
 ```bash
+git clone https://github.com/Night1918/zju_library_booking_tool.git
+cd zju_library_booking_tool
 sudo apt-get install nodejs
 pip install bs4 PyExecJS requests
 python3 main.py
