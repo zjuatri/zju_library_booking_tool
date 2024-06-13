@@ -7,7 +7,7 @@
 ## Windows
 
 ```powershell
-git clone https://github.com/Night1918/zju_library_booking_tool.git
+git clone https://github.com/zjuatri/zju_library_booking_tool
 cd zju_library_booking_tool
 pip install bs4 PyExecJS requests
 python3 main.py
@@ -16,7 +16,7 @@ python3 main.py
 ## Linux
 
 ```bash
-git clone https://github.com/Night1918/zju_library_booking_tool.git
+git clone https://github.com/zjuatri/zju_library_booking_tool
 cd zju_library_booking_tool
 sudo apt-get install nodejs
 pip install bs4 PyExecJS requests
@@ -32,7 +32,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 来安装homebrew
 若已安装则仅需输入以下指令
 ```bash
-git clone https://github.com/Night1918/zju_library_booking_tool.git
+git clone https://github.com/zjuatri/zju_library_booking_tool
 cd zju_library_booking_tool
 brew install nodejs
 sudo pip3 install bs4 PyExecJS requests
